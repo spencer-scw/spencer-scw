@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Spencer Wilson, a data science undergrad and student CSR at BYU. I'm working on a variety of things; I have projects involving data science, computer science, and game development. I use mainly Python and Java, but I also know R and C++. I like to tinker with my computer and hope not to break anything!
+
 <!--
 **spencer-scw/spencer-scw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
